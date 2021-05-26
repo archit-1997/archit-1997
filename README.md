@@ -1,4 +1,4 @@
-### Hello World. I'm Archit !! 👋
+## Hello World. I'm Archit !! 👋
 
 ###### I’m your typical fresh in the lot techie having experience in developing desktop and web applications.
 
@@ -19,6 +19,7 @@
 [<img align="left" alt="archit-1997| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <i class="fa fa-google" aria-hidden="true"></i>
 
+<br>
 
-[linkedin] : https://www.linkedin.com/in/archit-singh-890203150/
-[medium]  : https://medium.com/@singh.archit1997
+[linkedin]: https://www.linkedin.com/in/archit-singh-890203150/
+[medium]: https://medium.com/@singh.archit1997
