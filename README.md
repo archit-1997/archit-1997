@@ -2,7 +2,7 @@
 
 [![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=archit-1997&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archit-1997&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archit-1997&langs_count=7&hide=C++)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
