@@ -1,6 +1,6 @@
 ### Hello World !! 👋
 
-[![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=archit-1997&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=archit-1997&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
