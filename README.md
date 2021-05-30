@@ -1,6 +1,9 @@
 ## Hello World. I'm Archit !!   👋
 
-#### I’m your typical fresh in the lot techie, trying to get my hands dirty in the field of computer science. 🖥️
+<br>
+
+
+### I’m your typical fresh in the lot techie, trying to get my hands dirty in the field of computer science. 🖥️
 
 <br>
 
@@ -13,17 +16,27 @@
 
 <br>
 
-### Stuff that I've worked upon :
+### Languages and tools
+
 <p align='center' float="left">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="drawing" width="50px" height="50px"/>
-  <img style="width:48px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="drawing" width="40px"/>
-  <img src="https://library.kissclipart.com/20191125/yaq/kissclipart-logo-icon-css-icon-css-3-icon-27fbbe8fb920adff.png" alt="drawing" width="50px" height="50px"/>
- <img src="https://img.pngio.com/node-js-icon-183344-free-icons-library-nodejs-png-1600_1600.jpg" alt="drawing" width="40px"/>
- <img src="https://image.flaticon.com/icons/svg/1216/1216733.svg" alt="drawing" width="50px" height="50px"/>
- <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="drawing" width="50px"/>
- <img src="https://mpng.subpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="drawing" width="80px"/>
-   
+  <img src="./icons/java.png" alt="drawing" width="60px" height="60px"/>
+  <img src="./icons/spring.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/hibernate.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/maven.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/kafka.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/C++.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/javascript.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/mongodb.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/mysql.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/nodejs.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/axios.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/jenkins.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/git.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/vim.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/cmake.png" alt="drawing" width="50px" height="50px"/>
+
+  
 </p>
 
 <br>
@@ -31,9 +44,9 @@
 
 ### 2021 plans ??
 
-- 🌱 I’m currently learning Java, GO, Kafka and a lot more things
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱  I’m currently learning Java, GO, Kafka and a lot more things
+- 👯  I’m looking to collaborate with other developers
+- 🥅  2021 Goals: Contribute more to Open Source projects
 
 <br>
 
@@ -42,13 +55,18 @@
 
 <br>
 
-[<img align="left" alt="gmail" width="22px" src="icon/../icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="gmail" width="22px" src="icon/../icons/medium.gif" />][medium]
-[<img align="left" alt="gmail" width="22px" src="icon/../icons/github.png" />][github]
+<p align='center' float="left">
+  
+  [<img src="./icons/linkedin.gif" alt="drawing" width="60px" height="60px"/>][linkedin]
+  [<img src="./icons/medium.gif" alt="drawing" width="50px" height="50px"/>][medium]
+  [<img src="./icons/github.png" alt="drawing" width="50px" height="50px"/>][github]
+
+  
+</p>
 
 <br>
 
-architsingh456@gmail.com
+## architsingh456@gmail.com
 
 <br>
 
