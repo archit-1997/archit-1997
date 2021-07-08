@@ -19,12 +19,12 @@
 <p align='center' float="left">
   
   <img src="./icons/java.png" alt="drawing" width="60px" height="60px"/>
+  <img src="./icons/golang.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/C++.png" alt="drawing" width="50px" height="50px"/>
   <img src="./icons/spring.png" alt="drawing" width="50px" height="50px"/>
+  <img src="./icons/kafka.png" alt="drawing" width="50px" height="50px"/>
   <img src="./icons/hibernate.png" alt="drawing" width="50px" height="50px"/>
   <img src="./icons/maven.png" alt="drawing" width="50px" height="50px"/>
-  <img src="./icons/kafka.png" alt="drawing" width="50px" height="50px"/>
-  <img src="./icons/C++.png" alt="drawing" width="50px" height="50px"/>
-  <img src="./icons/golang.png" alt="drawing" width="50px" height="50px"/>
   <img src="./icons/mysql.png" alt="drawing" width="50px" height="50px"/>
   <img src="./icons/docker.png" alt="drawing" width="50px" height="50px"/>
   <img src="./icons/kubernetes.png" alt="drawing" width="50px" height="50px"/>
