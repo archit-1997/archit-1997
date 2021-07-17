@@ -1,9 +1,4 @@
-## Hello World. I'm Archit !! 👋
-
-<br>
-
-### I’m your typical fresh in the lot techie, trying to get my hands dirty in the field of computer science. 🖥️
-
+### Hello World !! I'm Archit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 <br>
 
 [![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=archit-1997&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +9,7 @@
 
 <br>
 
-### Languages and tools
+### Languages and tools I'm familiar with 
 
 <p align='center' float="left">
   
@@ -39,9 +34,8 @@
 
 ### 2021 plans ??
 
--   🌱 I’m currently learning Java, GO, Kafka and a lot more things
--   👯 I’m looking to collaborate with other developers
--   🥅 2021 Goals: Contribute more to Open Source projects
+-   🌱 I’m currently learning Java, GO, Kafka 
+-   🥅 2021 Goals: Contribute to Open Source projects
 
 <br>
 
