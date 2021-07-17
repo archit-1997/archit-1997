@@ -1,15 +1,15 @@
 ### Hello World !! I'm Archit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 <br>
 
-[![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=archit-1997&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### What I'm currently working on ?
+- A project on **Course Management System**
+- A project on implementing a **key-value** store in Golang
+- Learning **Kafka**, **Golang** and **Java**
+- Learning **System Design** and **Microservices**
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archit-1997&langs_count=8&hide=c%2B%2B,javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-### Languages and tools I'm familiar with 
+### Languages and tools that I've used
 
 <p align='center' float="left">
   
@@ -32,16 +32,19 @@
 
 <br>
 
-### 2021 plans ??
+### Github Statistics
 
--   🌱 I’m currently learning Java, GO, Kafka 
--   🥅 2021 Goals: Contribute to Open Source projects
+[![Archit's Github Status](https://github-readme-stats.vercel.app/api?username=archit-1997&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archit-1997&langs_count=8&hide=c%2B%2B,javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-### Connect with me:
 
-<br>
+### Find me elsewhere 🌏
+
 
 <p align='center' float="left">
   
