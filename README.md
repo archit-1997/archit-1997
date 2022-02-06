@@ -11,7 +11,7 @@ on building scalable services and tools that support the rapid growth of Aurora.
 
 ### What I'm currently working on ?
 
--   Working on my blog [Discrete Aspects](https://discreteaspects.hashnode.dev)
+-   Publishing articles to my blog [Discrete Aspects](https://discreteaspects.hashnode.dev)
 -   Studying `Networking` and `Distributed Systems`
 -   Getting myself in shape at GYM
 
