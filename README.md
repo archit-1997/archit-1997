@@ -4,8 +4,7 @@
 
 ### What do I do?
 
-I work as an `Engineer` in `Amazon Web Service (AWS)` in RDS Aurora. I'm part of the `Aurora Platform` team which focuses<br>
-on building scalable services and tools that support the rapid growth of Aurora.
+I work as an `Engineer` at `Amazon Web Service (AWS) : Relational Database Service (RDS)` in the `Aurora Control Plane` team.
 <br>
 Apart from work, I spend time reading about how large scale distributed systems work, reading research papers, trying to understand why things are the way they are. 
 <br>
@@ -25,6 +24,7 @@ During weekends, I go out with my friends to play football. When I'm home, I spe
 
 <p align='center' float="left">
   
+  [<img src="./icons/icons8-twitter-48.png" alt="drawing" width="50px" height="50px"/>][twitter]
   [<img src="./icons/linkedin.gif" alt="drawing" width="60px" height="60px"/>][linkedin]
   [<img src="./icons/medium.gif" alt="drawing" width="50px" height="50px"/>][medium]
   [<img src="./icons/github.png" alt="drawing" width="50px" height="50px"/>][github]
